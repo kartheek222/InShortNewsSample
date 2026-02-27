@@ -1,4 +1,4 @@
-package com.onexp.remag.splash.domain.usecase
+package com.side.newsapplication.usecase
 
 import com.google.common.truth.Truth
 import com.onexp.remag.base.data.BaseResponseModel

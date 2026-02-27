@@ -1,12 +1,12 @@
-package com.onexp.remag.registration.presentation.viewmodel
+package com.side.newsapplication.registration.presentation.viewmodel
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.compose.runtime.mutableStateListOf
 import com.google.common.truth.Truth
 import com.onexp.remag.MainDispatcherExtension
 import com.onexp.remag.base.data.BaseResponseModel
-import com.onexp.remag.base.data.ErrorResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.ErrorResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.registration.data.MasterPlatformResponseItem
 import com.onexp.remag.registration.domain.usecase.PlatformSelectionUseCase

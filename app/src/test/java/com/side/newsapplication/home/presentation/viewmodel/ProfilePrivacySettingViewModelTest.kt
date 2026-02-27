@@ -1,12 +1,12 @@
-package com.onexp.remag.home.presentation.viewmodel
+package com.side.newsapplication.home.presentation.viewmodel
 
 import android.content.Context
 import android.provider.Settings
 import com.google.common.truth.Truth.assertThat
 import com.onexp.remag.MainDispatcherExtension
-import com.onexp.remag.base.data.ErrorResponseModel
-import com.onexp.remag.base.data.SessionTimeoutResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.ErrorResponseModel
+import com.side.newsapplication.data.SessionTimeoutResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.home.data.ProfilePrivacySettingModel
 import com.onexp.remag.home.domain.ClearLoginPreferencesUseCase

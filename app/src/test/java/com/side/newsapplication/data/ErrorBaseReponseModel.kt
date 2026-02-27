@@ -1,4 +1,4 @@
-package com.onexp.remag.base.data
+package com.side.newsapplication.data
 
 import com.onexp.remag.repository.network.ApiConstants
 import com.onexp.remag.repository.network.interceptors.ResponseInterceptor

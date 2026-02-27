@@ -1,4 +1,4 @@
-package com.onexp.remag.registration.presentation.viewmodel
+package com.side.newsapplication.registration.presentation.viewmodel
 
 import android.content.Context
 import android.provider.Settings
@@ -6,8 +6,8 @@ import com.google.common.truth.Truth
 import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.google.firebase.messaging.FirebaseMessaging
 import com.onexp.remag.MainDispatcherExtension
-import com.onexp.remag.base.data.ErrorResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.ErrorResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.domain.utils.PKCEUtil
 import com.onexp.remag.registration.data.LoginResponseModel

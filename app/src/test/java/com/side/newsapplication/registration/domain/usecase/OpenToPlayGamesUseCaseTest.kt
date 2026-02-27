@@ -1,4 +1,4 @@
-package com.onexp.remag.registration.domain.usecase
+package com.side.newsapplication.registration.domain.usecase
 
 import android.content.Context
 import android.provider.Settings

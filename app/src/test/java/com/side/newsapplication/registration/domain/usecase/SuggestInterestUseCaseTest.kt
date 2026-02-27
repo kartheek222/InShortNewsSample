@@ -1,4 +1,4 @@
-package com.onexp.remag.registration.domain.usecase
+package com.side.newsapplication.registration.domain.usecase
 
 import android.content.Context
 import android.provider.Settings
@@ -9,8 +9,8 @@ import com.google.gson.GsonBuilder
 import com.google.gson.JsonObject
 import com.onexp.remag.MainDispatcherRule
 import com.onexp.remag.base.data.BaseResponseModel
-import com.onexp.remag.base.data.ErrorResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.ErrorResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.GetTokenKeyForHeaderUseCase
 import com.onexp.remag.domain.utils.NetworkUtils
 import com.onexp.remag.repository.network.ApiConstants

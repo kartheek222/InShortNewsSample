@@ -1,4 +1,4 @@
-package com.onexp.remag.domain.utils
+package com.side.newsapplication.domain.utils
 
 import android.content.Context
 import android.provider.Settings

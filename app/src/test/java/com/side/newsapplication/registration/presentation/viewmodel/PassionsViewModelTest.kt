@@ -1,4 +1,4 @@
-package com.onexp.remag.registration.presentation.viewmodel
+package com.side.newsapplication.registration.presentation.viewmodel
 
 import android.content.Context
 import com.google.common.truth.Truth

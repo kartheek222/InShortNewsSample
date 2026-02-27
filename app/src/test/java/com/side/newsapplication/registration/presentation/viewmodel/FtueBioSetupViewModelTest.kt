@@ -1,11 +1,11 @@
-package com.onexp.remag.registration.presentation.viewmodel
+package com.side.newsapplication.registration.presentation.viewmodel
 
 import android.content.Context
 import com.google.common.truth.Truth
 import com.google.gson.JsonElement
 import com.onexp.remag.MainDispatcherExtension
-import com.onexp.remag.base.data.ErrorResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.ErrorResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.domain.utils.PKCEUtil
 import com.onexp.remag.registration.domain.usecase.BioSetupUseCase

@@ -1,4 +1,4 @@
-package com.onexp.remag.domain
+package com.side.newsapplication.domain
 
 import com.google.common.truth.Truth
 import com.onexp.remag.base.data.BaseResponseModel

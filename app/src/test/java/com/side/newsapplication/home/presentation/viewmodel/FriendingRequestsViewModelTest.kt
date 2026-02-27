@@ -1,7 +1,7 @@
-package com.onexp.remag.home.presentation.viewmodel
+package com.side.newsapplication.home.presentation.viewmodel
 
 import com.google.common.truth.Truth
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.home.data.GetFriendRequestsResponseModel
 import com.onexp.remag.home.domain.BlockUserUseCase

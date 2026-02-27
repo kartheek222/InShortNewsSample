@@ -1,9 +1,9 @@
-package com.onexp.remag.home.domain.usecase
+package com.side.newsapplication.home.domain.usecase
 
 import com.google.common.truth.Truth
 import com.google.gson.JsonElement
 import com.onexp.remag.base.data.BaseResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.domain.utils.NetworkUtils
 import com.onexp.remag.home.domain.EditUserBioUseCase

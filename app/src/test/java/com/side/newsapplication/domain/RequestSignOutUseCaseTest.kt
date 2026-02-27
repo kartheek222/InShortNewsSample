@@ -1,10 +1,10 @@
-package com.onexp.remag.domain
+package com.side.newsapplication.domain
 
 import android.content.Context
 import android.provider.Settings
 import com.google.common.truth.Truth
-import com.onexp.remag.base.data.ErrorResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.ErrorResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.repository.network.ApiConstants
 import com.onexp.remag.repository.network.ApiServices
 import io.mockk.coEvery

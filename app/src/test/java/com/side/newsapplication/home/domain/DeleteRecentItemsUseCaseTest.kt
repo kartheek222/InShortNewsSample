@@ -1,8 +1,8 @@
-package com.onexp.remag.home.domain
+package com.side.newsapplication.home.domain
 
 import com.google.common.truth.Truth
 import com.onexp.remag.base.data.BaseResponseModel
-import com.onexp.remag.base.data.SuccessResponseModel
+import com.side.newsapplication.data.SuccessResponseModel
 import com.onexp.remag.domain.NoNetworkException
 import com.onexp.remag.domain.utils.NetworkUtils
 import com.onexp.remag.repository.network.ApiConstants
